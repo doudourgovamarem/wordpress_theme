@@ -1,0 +1,32 @@
+/*
+Theme Name: Mon Theme
+Version: 1.0.0
+Author: MD
+Description: Thème pédagogique
+Requires at least: 5.9
+Requires PHP: 8.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: mon-theme
+*/
+body {
+     background-color: rgb(211, 183, 187);
+    }
+/*
+Theme Name: Plop
+Text Domain: plop
+Version: 1.0
+Requires PHP: 8.0.8
+Description: It's a beautifull Plop Theme by Plop Team © 2022
+Author: Thomas
+Author URI: https://wordpress.org/
+Theme URI: https://wordpress.org/themes/plop/
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+All files, unless otherwise stated, are released under the GNU General Public
+License version 2.0 (http://www.gnu.org/licenses/gpl-2.0.html)
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned
+with others.
+*/
+
